@@ -27,10 +27,15 @@
                         $contador++;   
                         fseek($fichero, 0);  
                     }
-
                 }
                 fclose($fichero); 
                 ?>
+                <form method="post"
+                enctype="application/x-wwww-form-urlencoded"
+                action="proyecto2tareas.php">
+
+                <div> <label> Nueva tarea<input name="nuevatarea"> </label></div>
+                <div><button type="submit">Enviar</button></div>
             </td>
             <td>
                 <?php /*Abro el archivo de texto con el fopen, con el while repito, mientras queden tareas, el mostrar una tarea con el fgets y el echo y hacer un salto de línea con el br , lo cierro con el fclose */
