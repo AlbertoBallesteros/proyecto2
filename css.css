@@ -1,0 +1,34 @@
+body{
+    background-color: #ebe8e5;
+}
+.cabecera{
+    background-color: #ff9300
+}
+.titulo{
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+}
+.tablatareaspendientes{
+    position: absolute;
+    background:#dfcfbe;
+}
+.tablatareasenprogreso{
+    position: absolute;
+    left: 500px;
+    background: #dfcfbe;
+}
+.tablatareasfinalizadas{
+    position: absolute;
+    left: 1000px;
+    background:#dfcfbe;
+}
+.boton{
+    color: #fffcfa;
+    background-color: #ec7309;
+    border-color: #bb5b07;
+}
+.div{
+    word-wrap: break-word;
+    width: 350px;
+}
