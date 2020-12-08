@@ -1,7 +1,5 @@
-0;Tarea 2
-1;Tarea 4
-2;Tarea 5
-3;Tarea 6
-4;Tarea 7
-5;Tarea 8
-6;Tarea 9
+0;Tarea 6
+1;Tarea 7
+2;Tarea 8
+3;Tarea 9
+4;Tarea 3
